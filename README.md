@@ -1,5 +1,7 @@
 # POST to Kafka
 
+## Usage:
+
 This Java Spring application listens on port 8080 and publishes messages to a Kafka topic specified in the URL path, e.g. 'king-arthur' is the topic:
 
     $ python
@@ -9,7 +11,7 @@ This Java Spring application listens on port 8080 and publishes messages to a Ka
     <Response [200]>
 
 
-To run:
+## To run the application:
 
 1. clone the repository:
 
