@@ -1,6 +1,6 @@
 # POST to Kafka
 
-This listens on port 8080 and publishes messages to a Kafka topic specified in the URL path, e.g. 'king-arthur' is the topic:
+This Java Spring application listens on port 8080 and publishes messages to a Kafka topic specified in the URL path, e.g. 'king-arthur' is the topic:
 
     $ python
     Python 2.7.12
